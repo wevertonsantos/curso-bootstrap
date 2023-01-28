@@ -1,5 +1,10 @@
+.font-slide{
+	font-family: 'Pacifico';
+}
+
 .imagem-carrossel {
 	object-fit: cover;
 	object-position: 0 80%;
 	height: 400px;
 }
+
