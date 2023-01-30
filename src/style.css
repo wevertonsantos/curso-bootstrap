@@ -2,7 +2,7 @@
 	font-family: 'Pacifico';
 }
 
-.imagem-carrossel {
+.image-carousel {
 	object-fit: cover;
 	object-position: 0 80%;
 	height: 400px;
