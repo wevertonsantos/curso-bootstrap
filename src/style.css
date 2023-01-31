@@ -11,3 +11,12 @@
 .color-special{
 	color: darkred;
 }
+
+.border-color-special{
+	border-color: darkred;
+}
+
+.btn-background-special{
+	background-color: darkred;
+	color: white;
+}
