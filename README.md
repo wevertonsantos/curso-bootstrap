@@ -1,4 +1,4 @@
-<h1> Curse Bootstrap from Alura </h1>
+<h1> curse Bootstrap from Alura </h1>
 
 <ul>
   <li>Implementation Bootstrap</li>
@@ -10,3 +10,5 @@
   <li>Cards</li>
   <li>Background</li>
 </ul>
+
+https://wevertonsantos.github.io/curso-bootstrap/
