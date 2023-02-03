@@ -28,5 +28,6 @@
 }
 
 .card-width{
-	width: 18rem;
+	max-width: 18rem;
 }
+
